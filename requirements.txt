@@ -1,0 +1,11 @@
+flask
+selenium
+pygame
+openai
+cohere
+groq
+pyttsx3
+speechrecognition
+requests
+pillow
+# removed pyautogui, pygetwindow, python3-Xlib
